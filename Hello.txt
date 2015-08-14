@@ -1,0 +1,6 @@
+This program is the FYP that I created for University.
+It revolves around creating a story from its aspects; Characters , Items , Plot etc.
+After a story is created it is then usable inside a game environment that utilises these aspects within the game
+mechanics, so as the game never has to worry about the story.
+And so the game maker also doesn't have to concentrate on the story either. 
+These stories can also be passed around to different game environments.
