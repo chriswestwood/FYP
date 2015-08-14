@@ -1,0 +1,7 @@
+; list of first names to be used by the game , genderChar:name
+m:Dave
+m:George
+m:Harry
+f:Amy
+f:Anna
+f:Margaret

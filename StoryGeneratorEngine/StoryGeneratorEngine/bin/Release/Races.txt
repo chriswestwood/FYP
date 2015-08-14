@@ -1,0 +1,4 @@
+; list of races to be used in the game
+Human
+Orc
+Elf

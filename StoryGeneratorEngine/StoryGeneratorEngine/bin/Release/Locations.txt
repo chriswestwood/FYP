@@ -1,0 +1,4 @@
+;Name=name of area 
+;Type = locationType it can be used for
+;Desc = Description of area
+Name:Brush,Type:Any,Desc:small bushes scatter the area

@@ -1,0 +1,83 @@
+;Name = name of Item , 
+;Type = eg. food , weapon , 
+;Value = number used for iteraction , 
+;Desc = description of item
+;lvl1
+;weapons
+Name:stick,Type:weapon,Value:1,Desc:a useless stick, you can probably hit someone with it
+Name:rock,Type:projectile,Type:Weapon,Value:1,Desc:A small stone that can be thrown at enemies
+;health
+Name:berry,Type:food,Value:1,Desc:a small edible berry
+;containers
+Name:hole,Type:container,Value:1,Desc:a small hole in the floor
+;other/trinkets
+;lvl2
+;weapons
+Name:dagger,Type:weapon,Value:2,Desc:a small blunt dagger, does more damage than nothing
+;health
+Name:root,Type:food,Value:2,Desc:maybe this root has medicinal properties
+;containers
+Name:small bag,Type:container,Value:2,Desc:might contain something useful
+;other/trinkets
+Name:coin,Type:trinket,Value:2,Desc:a penny
+;lvl3
+;weapons
+Name:dull sword,Type:weapon,Value:3,Desc:a dull blade
+;health
+Name:meat,Type:food,Type:animal,Value:3,Desc:meat taken from an animal
+;containers
+;other/trinkets
+Name:metal cup,Type:trinket,Value:3,Desc:could be worth something
+;lvl4
+;weapons
+Name:hatchet,Type:weapon,Value:3,Desc:good for chopping wood
+;health
+;containers
+Name:bag,Type:container,Value:4,Desc:a larger bag
+;other/trinkets
+Name:gem,Type:trinket,Value:4,Desc:could be worth something
+;lvl5
+;weapons
+Name:sharp sword,Type:weapon,Value:5,Desc:more lethal since it is sharp
+;health
+Name:potion,Type:heal,Value:5,Desc:heals 5 damage
+;containers
+;other/trinkets
+Name:jewel,Type:trinket,Value:5,Desc:worth a bit more than smaller trinkets
+;lvl6
+;weapons
+Name:bow,Type:weapon,Value:6,Desc:uses arrows to fire at targets
+;health
+;containers
+;other/trinkets
+;lvl7
+;weapons
+Name:broadsword,Type:weapon,Value:7,Desc:heavy but does devistating damage
+;health
+Name:large potion,Type:heal,Value:7,Desc:heals 7 damage
+;containers
+Name:chest,Type:container,Type:immobile,Value:7,Desc:storage for valuable items
+;other/trinkets
+Name:gold ring,Type:trinket,Value:5,Desc:could of been a wedding ring, very valuable
+;lvl8
+;weapons
+;health
+;containers
+Name:locked chest,Type:container,Type:immobile,Value:8,Desc:A locked chest, could contain something rare
+;other/trinkets
+Name:diamond,Type:trinket,Value:8,Desc:better keep it safe
+;lvl9
+;weapons
+;health
+;containers
+Name:locked chest,Type:container,Type:immobile,Value:9,Desc:A locked chest, could contain something rare
+;other/trinkets
+;lvl10
+;weapons
+Name:excalibur,Type:weapon,Type:Sword,Type:trinket,Value:10,Desc:The magical sword of excalibur
+;health
+;containers
+;other/trinkets
+Name:cup of life,Type:trinket,Value:10,Desc:said to bring someone back to life
+Name:philosopher's stone,Type:trinket,Value:10,Desc:holds the power of immortality
+Name:phoenix feather,Type:trinket,Value:10,Desc:a feather from a magical bird

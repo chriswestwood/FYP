@@ -1,0 +1,29 @@
+E:\FYP\Program\StoryGeneratorEngine\StoryGeneratorEngine\bin\Debug\StoryGeneratorEngine.exe.config
+E:\FYP\Program\StoryGeneratorEngine\StoryGeneratorEngine\bin\Debug\StoryGeneratorEngine.exe
+E:\FYP\Program\StoryGeneratorEngine\StoryGeneratorEngine\bin\Debug\StoryGeneratorEngine.pdb
+E:\FYP\Program\StoryGeneratorEngine\StoryGeneratorEngine\obj\Debug\StoryGeneratorEngine.exe
+E:\FYP\Program\StoryGeneratorEngine\StoryGeneratorEngine\obj\Debug\StoryGeneratorEngine.pdb
+E:\FYP\Program\StoryGeneratorEngine\StoryGeneratorEngine\obj\Debug\StoryGeneratorEngine.csprojResolveAssemblyReference.cache
+E:\FYP\Program\StoryGeneratorEngine\StoryGeneratorEngine\obj\Debug\StoryGeneratorEngine.csproj.GenerateResource.Cache
+E:\FYP\Program\StoryGeneratorEngine\StoryGeneratorEngine\obj\Debug\StoryGeneratorEngine.GameForm.resources
+E:\FYP\Program\StoryGeneratorEngine\StoryGeneratorEngine\obj\Debug\StoryGeneratorEngine.StoryCreationForm.resources
+C:\Users\Chris\Desktop\Program\StoryGeneratorEngine\StoryGeneratorEngine\bin\Debug\StoryGeneratorEngine.exe.config
+C:\Users\Chris\Desktop\Program\StoryGeneratorEngine\StoryGeneratorEngine\obj\Debug\StoryGeneratorEngine.exe
+C:\Users\Chris\Desktop\Program\StoryGeneratorEngine\StoryGeneratorEngine\obj\Debug\StoryGeneratorEngine.pdb
+C:\Users\Chris\Desktop\Program\StoryGeneratorEngine\StoryGeneratorEngine\bin\Debug\StoryGeneratorEngine.exe
+C:\Users\Chris\Desktop\Program\StoryGeneratorEngine\StoryGeneratorEngine\bin\Debug\StoryGeneratorEngine.pdb
+C:\Users\Chris\Desktop\Program\StoryGeneratorEngine\StoryGeneratorEngine\obj\Debug\StoryGeneratorEngine.csprojResolveAssemblyReference.cache
+C:\Users\Chris\Desktop\Program\StoryGeneratorEngine\StoryGeneratorEngine\obj\Debug\StoryGeneratorEngine.GameForm.resources
+C:\Users\Chris\Desktop\Program\StoryGeneratorEngine\StoryGeneratorEngine\obj\Debug\StoryGeneratorEngine.StoryCreationForm.resources
+C:\Users\Chris\Desktop\Program\StoryGeneratorEngine\StoryGeneratorEngine\obj\Debug\StoryGeneratorEngine.csproj.GenerateResource.Cache
+E:\FYP\Program\StoryGeneratorEngine\StoryGeneratorEngine\obj\Debug\StoryGeneratorEngine.Properties.Resources.resources
+C:\Users\Chris\My Work\Git\FYP\StoryGeneratorEngine\StoryGeneratorEngine\bin\Debug\StoryGeneratorEngine.exe.config
+C:\Users\Chris\My Work\Git\FYP\StoryGeneratorEngine\StoryGeneratorEngine\obj\Debug\StoryGeneratorEngine.exe
+C:\Users\Chris\My Work\Git\FYP\StoryGeneratorEngine\StoryGeneratorEngine\obj\Debug\StoryGeneratorEngine.pdb
+C:\Users\Chris\My Work\Git\FYP\StoryGeneratorEngine\StoryGeneratorEngine\bin\Debug\StoryGeneratorEngine.exe
+C:\Users\Chris\My Work\Git\FYP\StoryGeneratorEngine\StoryGeneratorEngine\bin\Debug\StoryGeneratorEngine.pdb
+C:\Users\Chris\My Work\Git\FYP\StoryGeneratorEngine\StoryGeneratorEngine\obj\Debug\StoryGeneratorEngine.csprojResolveAssemblyReference.cache
+C:\Users\Chris\My Work\Git\FYP\StoryGeneratorEngine\StoryGeneratorEngine\obj\Debug\StoryGeneratorEngine.GameForm.resources
+C:\Users\Chris\My Work\Git\FYP\StoryGeneratorEngine\StoryGeneratorEngine\obj\Debug\StoryGeneratorEngine.StoryCreationForm.resources
+C:\Users\Chris\My Work\Git\FYP\StoryGeneratorEngine\StoryGeneratorEngine\obj\Debug\StoryGeneratorEngine.Properties.Resources.resources
+C:\Users\Chris\My Work\Git\FYP\StoryGeneratorEngine\StoryGeneratorEngine\obj\Debug\StoryGeneratorEngine.csproj.GenerateResource.Cache

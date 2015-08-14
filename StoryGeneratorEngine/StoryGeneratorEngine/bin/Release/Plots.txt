@@ -1,0 +1,4 @@
+;Name = name of plot , Mod : what needs to be done eg. kill , find ... , 
+;creature:item = what needs to be modified ,
+;value = by how much
+Name:PLOT 1 Slay the Monster,Creature:Any,Value:1

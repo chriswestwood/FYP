@@ -1,0 +1,4 @@
+;Name = name ,
+;Type = specialisation( weapon prof , armour usage , other ) eg . sword , lightArmour , Any , none 
+;Desc = description of role
+Name:Farmer,Type:None,Desc:spends their life looking after cattle and wheat fields

@@ -1,0 +1,7 @@
+;Name = name of plot , Mod : target type
+;creature:item = what needs to be modified ,
+;value = by how much
+Name:PLOT 1 Find the Object,Mod:Item,Value:1,Type:any,Desc:You are required find and retrieve the specified item
+Name:PLOT 2 Slay the Beast,Mod:Creature,Value:1,Type:any,Desc:You are required to find and defeat the creature specified
+Name:Rampaging Minotaur,Mod:Creature,Value:1,Type:minotaur,Desc:A giant Minotaur is rampaging around the local area and you have been tasked by the citizens to venture out and defeat this beast
+Name:Sword in the stone,Mod:Item,Value:1,Type:excalibur,Desc:A tale of an ancient sword has lured you here. Unknown if it acctually exists you venture forth for fame and glory

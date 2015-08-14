@@ -1,0 +1,28 @@
+;Type = areas it can be used in , 
+;Mod = modifier eg spawn, damage, heal ( what happends to the object ) ,
+;creature:player:item = what is to be modified ,
+;Value = amount by ,
+;Desc = overall desc of what happend
+areaType:Any,Mod:Creature,type:Bunny,Value:1,Desc:a bunny rabbit jumps around in front of you.
+areaType:Any,Mod:Creature,type:woman,Value:1,Desc:a woman wonders by, she looks lost
+areaType:Any,Mod:Creature,type:friendly,Value:1,Desc:something is lurking in the shadows
+areaType:Any,Mod:Creature,type:dog,Value:1,Desc:a small dog runs past in a hurry, perhaps you should follow it
+areaType:Any,Mod:Creature,type:friendly,Value:1,Desc:
+areaType:Any,Mod:Creature,type:hostile,Value:1,Desc:something attacks you from behind
+areaType:Forest,Mod:Creature,type:hostile,Value:3,Desc:you get jumped by a group of enemies from the trees
+areaType:Forest,Mod:Creature,type:snake,Value:5,Desc:a pit of deadly snakes is waitng for you here
+areaType:Any,Mod:Creature,type:thief,Value:1,Desc:a thief gets the jump on you
+areaType:Any,Mod:none,type:none,Value:1,Desc:an earie sound eccos from all around you
+areaType:Any,Mod:none,type:none,Value:1,Desc:it falls deadly silent, there may be something lurking around the next corner
+areaType:Any,Mod:none,type:none,Value:1,Desc:the sun beats down upon you
+areaType:Any,Mod:none,type:none,Value:1,Desc:nothing much happens
+areaType:Any,Mod:Item,type:rock,Value:3,Desc:there are a bunch of rocks lying around here
+areaType:Forest,Mod:Item,type:any,Value:3,Desc:something falls out of one of the trees
+areaType:beach,Mod:Item,type:any,Value:1,Desc:there is something buried in the sand
+areaType:small house,Mod:Item,type:any,Value:2,Desc:you see some valuable items on a shelf
+areaType:cave,Mod:Item,type:meat,Value:3,Desc:you see the remains of an animal on the floor
+areaType:plains,Mod:Item,type:any,Value:10,Desc:a berry bush is nearby
+areaType:field,Mod:Item,type:dull sword,Value:3,Desc:a sword is buried in the dirt
+areaType:Any,Mod:Item,type:potion,Value:1,Desc:a potion lies in the middle of the floor, this could be a trap
+areaType:Any,Mod:Creature,type:man,Value:2,Desc:there seems to be a fight going on between two men
+

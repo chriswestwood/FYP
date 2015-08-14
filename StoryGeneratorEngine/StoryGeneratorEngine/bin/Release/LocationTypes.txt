@@ -1,0 +1,4 @@
+;Name = Name of Area Type , 
+;Colour = colour used for map , Hex code
+;Value = size used for map 
+Name:Forest,Colour:#00cc00,Value:5

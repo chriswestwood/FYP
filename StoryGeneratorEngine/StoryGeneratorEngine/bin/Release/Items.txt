@@ -1,0 +1,5 @@
+;Name = name of Item , 
+;Type = eg. food , weapon , 
+;Value = number used for iteraction , 
+;Desc = description of item
+Name:Meat,Type:Food,Type:Animal,Value:3,Desc:edible meat from an animal

@@ -1,0 +1,6 @@
+;Type = areas it can be used in , 
+;Mod = modifier eg spawn, damage, heal ( what happends to the object ) ,
+;creature:player:item = what is to be modified ,
+;Value = amount by ,
+;Desc = overall desc of what happend
+Type:Any,Mod:Spawn,Creature:Bunny,Value:1,Desc:a bunny rabbit jumps by

@@ -1,0 +1,41 @@
+;Name = type of creature ,
+;Type = sub types eg.enemy,freindly,unkillable... ,
+;Value = value of creature difficulty , 
+;Desc = description of creature
+;lvl1
+Name:rabbit,Type:friendly,Type:bunny,Value:1,Desc:Cute little bunny rabbit
+Name:rat,Type:friendly,Type:animal,Value:1,Desc:vermin that scavenges anyting it can find
+Name:slime,Type:friendly,Type:ooze,Value:1,Desc:grey sticky gloop
+Name:snake,Type:hostile,Type:animal,Value:1,Desc:small slithery snake
+;lvl2
+Name:dog,Type:friendly,Type:animal,Value:2,Desc:looks like it has lost its owner
+Name:deer,Type:friendly,Type:animal,Value:2,Desc:its horns look dangerous
+Name:wolf,Type:hostile,Type:animal,Value:2,Desc:it looks aggressive
+Name:bat,Type:hostile,Type:animal,Value:2,Desc:its wings are as big as your head, it seems to be mad at you for disturbing it
+;lvl3
+Name:thief,Type:hostile,Type:human,Value:3,Desc:looking to take your stuff from you
+Name:man,Type:friendly,Type:human,Value:3,Desc:just a traveling man
+Name:woman,Type:friendly,Type:human,Value:3,Desc:just a traveling woman
+Name:dwarf,Type:hostile,Type:humanoid,Value:3,Desc:Short stout character that dwells in mines and darkness
+;lvl4
+Name:hunter,Type:friendly,Type:human,Value:4,Desc:out to hunt for food. Ignores you completely
+Name:guard,Type:friendly,Type:human,Value:4,Desc: he seems to be guarding something
+Name:murderer,Type:hostile,Type:human,Value:4,Desc:looks like he is after you
+;lvl5
+Name:elf,Type:friendly,Type:elf,Value:5,Desc:seems to be lost in his own thoughts
+Name:dark elf,Type:hostile,Type:elf,Value:5,Desc:can cast powerful magic
+;lvl6
+Name:warlock,Type:friendly,Type:beast,Value:6,Desc:a strong beast, but deems uninterested in you
+Name:serpent,Type:hostile,Type:animal,Value:6,Desc:a large snake like beast
+;lvl7
+Name:large spider,Type:hostile,Type:animal,Value:7,Desc:I hope you like spiders
+;lvl8
+Name:Vampire,Type:hostile,Type:beast,Value:8,Desc:coming to suck your blood
+;lvl9
+Name:assassin,Type:hostile,Type:human,Value:9,Desc:seems someone wants you dead
+;lvl10
+Name:giant,Type:hostile,Type:humanoid,Value:10,Desc: a large man like beast wielding a large club
+Name:deadra,Type:hostile,Type:beast,Value:10,Desc:comes from the depths of hell
+Name:cyclops,Type:hostile,Type:beast,Value:10,Desc:huge one eyed beast
+Name:mammoth,Type:friendly,Type:animal,Value:10,Desc:an wooly mammoth, they seem to be going extinct
+Name:minotaur,Type:hostile,Type:beast,Value:10,Desc:Large horned beast

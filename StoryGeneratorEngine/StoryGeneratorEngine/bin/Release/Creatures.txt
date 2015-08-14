@@ -1,0 +1,5 @@
+;Name = type of creature ,
+;Type = sub types eg.enemy,freindly,unkillable... ,
+;Value = value of creature difficulty , 
+;Desc = description of creature
+Name:Bunny,Type:friendly,Type:animal,Value:1,Desc:Cute little bunny rabbit

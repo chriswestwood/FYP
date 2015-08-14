@@ -1,0 +1,9 @@
+; list of prefixes or suffixes for locations, of ... is used as a suffix
+A
+B
+C
+D
+of E
+of F
+of G
+of H

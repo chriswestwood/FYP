@@ -1,0 +1,7 @@
+;Name = name ,
+;Type = specialisation( weapon prof , armour usage , other ) eg . sword , lightArmour , Any , none 
+;Desc = description of role
+Name:Farmer,Type:None,Desc:Spending their life looking after cattle and wheat fields
+name:hunter,Type:bow,Desc:a hunter that lives off of the wild. very skilled with a bow
+name:warrior,Type:any,Desc:trained in an arena they have skills with almost any weapon
+name:guard,Type:sword,Desc:Mostly stationed on city walls. Tasked with defending it with their life

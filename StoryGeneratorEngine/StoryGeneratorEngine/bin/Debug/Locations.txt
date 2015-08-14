@@ -1,0 +1,26 @@
+;Name=name of area 
+;Type = locationType it can be used for
+;Desc = Description of area
+Name:path,Type:Any,Desc:A small dirt path that goes off in many directions. You can see footprints in the dirt.
+Name:clearing,Type:Forest,Desc:A small patch of clear ground in the forest.
+Name:trees,Type:Forest,Desc: a bunch of trees surround you
+Name:Hilltop,Type:Plains,Desc:A spanded area of grass on top of a hill. The view is amazing and the air is fresh.
+Name:Field,Type:Plains,Desc:A field of grass
+Name:Plain,Type:Plains,Desc:Nothing of interest is here
+Name:Brush,Type:Fields,Desc:Small brushes scatter the area
+Name:Field,Type:Fields,Desc:A field of corn
+Name:Beach,Type:Beach,Desc:Sand covered in crab shells
+Name:Coast,Type:Beach,Desc:Close to the edge of the sea the beach is attached to
+Name:Sand,Type:Desert,Desc:Just some sand
+Name:Oasis,Type:Desert,Desc:A small oasis breaks up the vast amount of sand
+Name:Room,Type:Small House,Desc:just a small room
+Name:Passageway,Type:Small House,Desc:tight passage to the other rooms of the house
+Name:Kitchen,Type:Large House,Desc:Contains many dirty dishes
+Name:Toilet,Type:Large House,Desc:Mostly consists of a hole in the floor
+Name:Bedroom,Type:Large House,Desc:Contains a bed.Some clothes are scattered around
+Name:Hall,Type:Large House,Desc:The walls are lined with pictures
+Name:CrossRoad,Type:Abandoned Town,Desc:There is a sign here, but you are unable to read the words
+Name:Road,Type:Abandoned Town,Desc:Leads further down the town
+Name:Well,Type:Abandoned Town,Desc:The towns water supply
+Name:House,Type:Abandoned Town,Desc:A one roomed house
+Name:Cove,Type:Cave,Desc:A dark hole in the mountain

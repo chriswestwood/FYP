@@ -1,0 +1,5 @@
+; names to be used for surnames in game
+Smith
+Jones
+Test
+Vader

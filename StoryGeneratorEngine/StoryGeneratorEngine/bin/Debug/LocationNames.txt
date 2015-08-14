@@ -1,0 +1,42 @@
+; list of prefixes or suffixes for locations, of ... is used as a suffix
+of Pryvale
+Dracpond
+Shadowfalcon
+of Southden
+Highspring
+Deerhaven
+Bygriffin
+Esterbeach
+of Watermount
+Blackgrass
+Vertmarble
+of Shadowmont
+Faygate
+Coldspring
+of Bellford
+Edgeacre
+Shadeston
+Woodbush
+of Windfield
+Brightbell
+Riverhaven
+of Fayland
+Fallsummer
+Lochhaven
+of Lakeport
+Northdeer
+Highacre
+Raymead
+of Westerbeach
+Lorfield
+Mallowport
+of Faysnow
+Dorhall
+Reddell
+of Linvale
+Whitebourne
+of Fairvale
+Deepcliff
+of Foxwick
+of Ashgate
+Starrymeadow

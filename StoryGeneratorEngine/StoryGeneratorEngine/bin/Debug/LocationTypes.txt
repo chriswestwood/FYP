@@ -1,0 +1,12 @@
+;Name = Name of Area Type , 
+;Colour = colour used for map , Hex code
+;Value = size used for map 
+Name:Forest,Colour:#003300,Value:9,desc:A large area packed with trees
+Name:Plains,Colour:#1F7A1F,Value:8,desc:An open space that travels as far as the eye can see
+Name:Beach,Colour:#FFFF4D,Value:4,desc:golden sand spands the area covered with shells of small critters
+Name:Desert,Colour:#FFA319,Value:10,desc:A dry wasteland of sand and heat.If feels as if it goes on forever
+Name:Small House,Colour:#996633,Value:3,desc:A small wooden hut with only a few rooms.
+Name:Large House,Colour:#E085FF,Value:8,desc:A large building that contains many rooms.The owner could still be around
+Name:Fields,Colour:#5EFF5E4,Value:6,desc:Lots of fields of grass lined with fences.
+Name:Abandoned Town,Colour:#767676,Value:7,desc:A ghost town where the owners seem to have dissapeared. THough it has now been inhabited by the local wildlife
+Name:Cave,Colour:#1A1A1A,Value:1,desc:A very small cave
